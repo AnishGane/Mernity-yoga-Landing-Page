@@ -1,4 +1,4 @@
-import banner from "./banner.png";
+import banner from "./Banner.png";
 import yoga3 from "./yoga3.jpg";
 import yoga1 from "./yoga1.jpg";
 import yoga2 from "./yoga2.jpg";

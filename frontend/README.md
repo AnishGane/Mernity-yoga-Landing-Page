@@ -45,4 +45,4 @@ A modern and responsive landing page for a yoga studio built with React and Tail
 ## Credits
 
 - Original Owner: Anish Gane
-- Visit [here]('https://mernity-yoga-landing-page.onrender.com/') to check the webiste live.
+- Visit [here](https://mernity-yoga-landing-page.onrender.com/) to check the website live.

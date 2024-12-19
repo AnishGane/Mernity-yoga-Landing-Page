@@ -1,5 +1,3 @@
-### Mernity Yoga Landing Page
-
 # Mernity Yoga Landing Page
 
 A modern and responsive landing page for a yoga studio built with React and Tailwind CSS.
